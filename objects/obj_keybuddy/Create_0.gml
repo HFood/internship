@@ -1,0 +1,17 @@
+depth = 2
+shk_x = 0
+shk_y = 0
+curx = x
+cury = y
+timetodie = 40
+state = "follow"
+followQueue = ds_queue_create()
+fly_x = 0
+fly_x_dir = 1
+fly_hsp = 0
+fly_y = 0
+fly_y_dir = 1
+fly_vsp = 0
+image_alpha = 0.25
+alarm[0] = 5
+appear_effect = 45

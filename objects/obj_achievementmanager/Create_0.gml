@@ -1,0 +1,5 @@
+ini_open(global.savedata_ini)
+ach_test = ini_read_real("achievements", "test", 0)
+ini_close()
+if (ds_list_find_index(global.saveroom, id) != -1)
+    instance_destroy()

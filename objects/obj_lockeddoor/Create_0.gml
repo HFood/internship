@@ -1,0 +1,10 @@
+rm = -4
+targx = 0
+targy = 0
+cursid = -4
+depth = 20
+doit = 0
+createdoor = -4
+opening = 0
+open = 0
+doornum = "A"

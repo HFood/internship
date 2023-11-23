@@ -1,0 +1,1 @@
+txt = "RABBIT CONCEPT"

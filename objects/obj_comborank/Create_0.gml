@@ -1,0 +1,9 @@
+depth = -1
+timer = 150
+scale = 0.8
+image_speed = 0
+passby = 0
+drawy = 8
+drawalpha = 1
+_score = obj_scorekeeper.comboscoreplus
+hotx = 0
